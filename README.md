@@ -1,4 +1,4 @@
-Here's a styled version of your README with icons and a more organized layout:
+Here's the updated README with the live URL added:
 
 ---
 
@@ -6,6 +6,9 @@ Here's a styled version of your README with icons and a more organized layout:
 
 ## 📚 Project Overview
 BookHub is a web application designed for book enthusiasts to explore, review, and manage their book collections. The project utilizes React for the front end, with multiple developers contributing to various components of the application.
+
+## 🌐 Live Demo
+Check out the live version of BookHub: [ebookodc.netlify.app](https://ebookodc.netlify.app/)
 
 ## 👥 Team Contributions
 - **Ayoub and Alae**  
